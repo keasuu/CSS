@@ -1,0 +1,32 @@
+*,
+*::after,
+*::before{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.wrapper{
+    width: 900px;
+    background-color: #9a53ff;
+    margin: 0 auto;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    padding: 20px;
+    margin: 25px;
+    border: 5px solid #ec8aff
+}
+
+.box1{
+    background-color: #ef71e7;
+}
+.box2{
+    background-color: #4fffb6;
+}
+.box3{
+    background-color: #6291fe;
+}
